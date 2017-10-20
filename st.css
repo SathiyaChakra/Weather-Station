@@ -1,0 +1,37 @@
+.navbar
+{
+  padding:20px 20px 20px 20px;
+  overflow:hidden;
+  background-color:#333;
+ }
+#website-name
+{
+  color:white;
+  font-size:45px;
+  font-family:"Chewy";
+  }
+#temp {
+   padding-top : 30px;
+  padding-bottom : 40px;
+  text-align : center;
+  color : Gold;
+  font-family: 'Kaushan Script';
+  margin : 200px 200px 200px 200px;
+  font-size : 40px;
+  background-color : rgba(0, 0, 0, 0.5);
+  border-radius : 30px;
+}
+#degree
+{
+  font-size:30px;
+  margin-top:20px;
+  font-family:'Indie Flower',Bold;
+  }
+.footer {
+  width:400px;
+  text-align:center;
+  display:block;
+  margin:15px auto 30px auto;
+  font-size:2em;
+  color:SlateBlue;
+}
