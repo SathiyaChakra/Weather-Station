@@ -1,8 +1,8 @@
  var backgrounds = {
   "cloudy" : "http://amitkulkarni.info/pics/khandala-tunnels-pawna-dam/photos/cloudy-weather-at-pavna-dam-lonavala.jpg","showers" : "http://www.seattleweatherblog.com/wp-content/uploads/2012/02/snow.jpg",
-"snow" : "http://www.wallpaperscharlie.com/wp-content/uploads/2016/07/Snowy-Weather-HD-Images-6.jpg",
-    "windy" : "http://wallup.net/wp-content/uploads/2016/01/196605-dog-animals-nature-landscape-windy-Border_Collie.jpg",
-"clear":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmYS3ccRxDW4zUY1-0IJLnXMxK6mcyF1FMfLw4bSGMwekaOEiZ",
+  "snow" : "http://www.wallpaperscharlie.com/wp-content/uploads/2016/07/Snowy-Weather-HD-Images-6.jpg",
+  "windy" : "http://wallup.net/wp-content/uploads/2016/01/196605-dog-animals-nature-landscape-windy-Border_Collie.jpg",
+  "clear":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmYS3ccRxDW4zUY1-0IJLnXMxK6mcyF1FMfLw4bSGMwekaOEiZ",
   "sunny" : "http://www.tigneswebcam.com/wp-content/uploads/2015/01/sunny-in-tignes-.jpg",
   "fog" : "http://awesomewallpapers.in/assets/img/wallpapers/Fog/Best-Fog-Wallpaper-High-Resolution-Image.jpg",
   "rainy" : "http://www.siwallpaperhd.com/wp-content/uploads/2016/03/rain_rainy_in_the_city_wallpaper.jpg",
